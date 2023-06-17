@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/2v6AyjS.png" width="200"></p>
+<p align="center"><img src="https://lh3.googleusercontent.com/pw/AJFCJaWoocq3ga7bTRbUF1oz7Pxcb0VKRDZC_CanL_tXEapeLQFKMtx36np1BL2SBUKE2GhU61YK5MVVSG3lvFPWm4nLrsYzFN6QLhpQmbQ8zjMU-K5T7M7dY96gdChsVogT9Fp39dHtjLO1ca7ZyG_Ni1rP=w500-h500-s-no" width="200"></p>
 
 ## MY MONEY - EASY TRACKING YOUR MONEY
 
