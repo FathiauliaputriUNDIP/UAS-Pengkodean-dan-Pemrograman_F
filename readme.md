@@ -2,7 +2,7 @@
                   <img src="https://lh3.googleusercontent.com/pw/AJFCJaWoocq3ga7bTRbUF1oz7Pxcb0VKRDZC_CanL_tXEapeLQFKMtx36np1BL2SBUKE2GhU61YK5MVVSG3lvFPWm4nLrsYzFN6QLhpQmbQ8zjMU-K5T7M7dY96gdChsVogT9Fp39dHtjLO1ca7ZyG_Ni1rP=w500-h500-s-no" alt="logo" width="130" class="shadow-light rounded-circle">
                     </div>
              
-MY MONEY - TAKE CHANGE OF YOUR FINANCES WITH MY MONEY: TRACK, SAVE SUCCEED!
+## MY MONEY - TAKE CHANGE OF YOUR FINANCES WITH MY MONEY: TRACK, SAVE SUCCEED!
 
 Catat dan kelola keuanganmu menggunakan aplikasi MY MONEY, aplikasi opens source yang dikembangkan untuk mencatat pemasukan masuk (debit) dan pengeluaran (credit) dengan beberapa fitur diantaranya:
 
