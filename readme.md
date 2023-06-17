@@ -1,4 +1,11 @@
- <div class="login-brand">
+## UAS _PENGKODEAN DAN PEMROGRAMAN KELAS F  SEMESTER 4 (S1 Akuntansi UNDIP)
+ 
+- Merinda Citra Saphira       (12030121120024)
+- Amelia Natafa               (12030121140196)
+- Shafa’ Fauzia Nur Hanifah   (12030121140276)
+- Fathia Aulia Putri          (12030121140311)
+ 
+  <div class="login-brand">
                   <img src="https://lh3.googleusercontent.com/pw/AJFCJaWoocq3ga7bTRbUF1oz7Pxcb0VKRDZC_CanL_tXEapeLQFKMtx36np1BL2SBUKE2GhU61YK5MVVSG3lvFPWm4nLrsYzFN6QLhpQmbQ8zjMU-K5T7M7dY96gdChsVogT9Fp39dHtjLO1ca7ZyG_Ni1rP=w500-h500-s-no" alt="logo" width="130" class="shadow-light rounded-circle">
 
 ## MY MONEY - TAKE CHANGE OF YOUR FINANCES WITH MY MONEY: TRACK, SAVE SUCCEED!
@@ -8,7 +15,7 @@ Catat dan kelola keuanganmu menggunakan aplikasi MY MONEY, aplikasi opens source
 - Daftar Akun
 - Masuk Akun
 - Lupa Password 
-- Dashboard
+- Berenda
 - Kategori Pemasukan
 - Pemasukan
 - Kategori Pengeluaran
@@ -21,19 +28,19 @@ Untuk versi webnya menggunakan Framework Laravel
 
 ## Screenshot
 
-- Login
-<img src="https://i.imgur.com/3lfDm0L.png" style="width:100%">
+- Masuk Akun
+<img src="https://photos.app.goo.gl/9tA4mUnTxcczP4Nx9" style="width:100%">
 
-- Register
+- Daftar Akun
 <img src="https://i.imgur.com/vLeOxNn.png" style="width:100%">
 
-- Dashboard
+- BERENDA
 <img src="https://i.imgur.com/NDK9qua.png" style="width:100%">
 
 - PEMASUKAN
 <img src="https://i.imgur.com/MAegGDC.png" style="width:100%">
 
-- Laporan PEMASUKAN
+- KATERGORI PEMASUKAN
 <img src="https://i.imgur.com/aPv4II6.png" style="width:100%">
 
 ## Cara Install
