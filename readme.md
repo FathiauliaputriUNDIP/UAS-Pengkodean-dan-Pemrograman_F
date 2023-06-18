@@ -29,7 +29,7 @@ Untuk versi webnya menggunakan Framework Laravel
 ## Screenshot
 
 - Masuk Akun
-<img src="https://bit.ly/43ZYX7u" style="width:100%">
+<img src="https://photos.google.com/photo/AF1QipNoW-UNayRX9qfsy5V7F9U3aGZNZ_tZ-XAMl_4_" style="width:100%">
 
 - Daftar Akun
 <img src="https://i.imgur.com/vLeOxNn.png" style="width:100%">
