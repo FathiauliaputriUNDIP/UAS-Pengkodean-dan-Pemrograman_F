@@ -15,7 +15,7 @@ Catat dan kelola keuanganmu menggunakan aplikasi MY MONEY, aplikasi opens source
 - Daftar Akun
 - Masuk Akun
 - Lupa Password 
-- Berenda
+- Beranda
 - Kategori Pemasukan
 - Pemasukan
 - Kategori Pengeluaran
@@ -34,7 +34,7 @@ Untuk versi webnya menggunakan Framework Laravel
 - Daftar Akun
 <img src="https://i.imgur.com/vLeOxNn.png" style="width:100%">
 
-- BERENDA
+- BERNNDA
 <img src="https://i.imgur.com/NDK9qua.png" style="width:100%">
 
 - PEMASUKAN
