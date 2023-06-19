@@ -29,16 +29,16 @@ Untuk versi webnya menggunakan Framework Laravel
 ## Screenshot
 
 - MASUK AKUN
-<img src="https://i.imgur.com/yAxXyKI.jpg" title="source: imgur.com" style="width:100%">
+<img src="https://i.imgur.com/yAxXyKI.jpg" title="source: imgur.com" style="width:85%">
 
 - DAFTAR AKUN
-<img src="https://i.imgur.com/clWF3Ke.jpg" title="source: imgur.com" style="width:100%">
+<img src="https://i.imgur.com/clWF3Ke.jpg" title="source: imgur.com" style="width:85%">
 
 - BERANDA
-<img src="https://i.imgur.com/Had9RAP.jpg" title="source: imgur.com" style="width:100%">
+<img src="https://i.imgur.com/Had9RAP.jpg" title="source: imgur.com" style="width:85%">
 
 - KATEROGI PEMASUKAN
-<img src="https://i.imgur.com/sTwc40N.jpg" title="source: imgur.com" style="width:100%">
+<img src="https://i.imgur.com/sTwc40N.jpg" title="source: imgur.com" style="width:85%">
 
 ## Cara Install
 
